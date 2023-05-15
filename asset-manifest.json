@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tripathigaurav02.github.io/TerribleTinyTales/static/css/main.86df2dc2.css",
+    "main.js": "/Tripathigaurav02.github.io/TerribleTinyTales/static/js/main.d8977afd.js",
+    "index.html": "/Tripathigaurav02.github.io/TerribleTinyTales/index.html",
+    "main.86df2dc2.css.map": "/Tripathigaurav02.github.io/TerribleTinyTales/static/css/main.86df2dc2.css.map",
+    "main.d8977afd.js.map": "/Tripathigaurav02.github.io/TerribleTinyTales/static/js/main.d8977afd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86df2dc2.css",
+    "static/js/main.d8977afd.js"
+  ]
+}
